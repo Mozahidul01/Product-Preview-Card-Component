@@ -14,9 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
 - [Author](#author)
 
-
-
-
 ## Overview
 
 ### The challenge
@@ -28,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-
+![](images/Product-preview-card-component-desktop.png)
+![](images/Product-preview-card-component-mobile.png)
 
 ### Links
 
-- Solution URL: (https://github.com/Mozahidul01/Product-Preview-Card-Component)
-- Live Site URL: (https://mozahidul01.github.io/Product-Preview-Card-Component/)
+- Solution URL: (<https://github.com/Mozahidul01/Product-Preview-Card-Component>)
+- Live Site URL: (<https://mozahidul01.github.io/Product-Preview-Card-Component/>)
 
 ## My process
 
@@ -45,23 +43,18 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
 ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
 
-
-
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-
 ## Author
 
-- Website - (https://www.mozahidul.com)
-- Frontend Mentor - (https://www.frontendmentor.io/profile/Mozahidul01)
-- Twitter - (https://twitter.com/Mozahidul01)
-
+- Website - (<https://www.mozahidul.com>)
+- Frontend Mentor - (<https://www.frontendmentor.io/profile/Mozahidul01>)
+- Twitter - (<https://twitter.com/Mozahidul01>)
