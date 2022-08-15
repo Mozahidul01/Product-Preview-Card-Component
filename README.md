@@ -29,7 +29,8 @@ Users should be able to:
 -Desktop View
 ![](images/Product-preview-card-component-desktop.png)
 
--Mobile View
+-Mobile View 
+
 ![](images/Product-preview-card-component-mobile.png)
 
 ### Links
