@@ -17,6 +17,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 
 This is a frontendmentor.io challenge project. It's a single product preview card. I have used HTML and CSS for this project. It's a fully responsive design component.
+
 ### The challenge
 
 Users should be able to:
@@ -29,7 +30,7 @@ Users should be able to:
 -Desktop View
 ![](images/Product-preview-card-component-desktop.png)
 
--Mobile View 
+-Mobile View
 
 ![](images/Product-preview-card-component-mobile.png)
 
@@ -43,6 +44,7 @@ Users should be able to:
 - First I wrote the HTML code for the design.
 - Then I wrote the CSS code according to the design.
 - Then I made this layout responsive according to screen size.
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -53,7 +55,7 @@ Users should be able to:
 
 ### What I learned
 
-I have learned use of CSS grid from this challenge. 
+I have learned use of CSS grid from this challenge.
 
 ## Author
 
