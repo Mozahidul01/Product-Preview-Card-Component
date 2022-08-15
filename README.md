@@ -26,7 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
+-Desktop View
 ![](images/Product-preview-card-component-desktop.png)
+
+-Mobile View
 ![](images/Product-preview-card-component-mobile.png)
 
 ### Links
