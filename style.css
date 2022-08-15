@@ -4,6 +4,8 @@
     padding: 0;
 }
 
+/* Colors */
+
 :root {
     --dark-cyan: hsl(158, 36%, 37%);
     --cream: hsl(30, 38%, 92%);
@@ -82,6 +84,8 @@ overflow: hidden;
     background: hsl(158, 33%, 13%);
 }
 
+/* Responsive for Big screen devices */
+
 @media only screen and (min-width: 810px) {
     .product-card{
         grid-template-columns: repeat(2, 1fr);
@@ -120,6 +124,8 @@ overflow: hidden;
         }
   }
     
+
+/* Responsive for small screens devices */
 
 @media only screen and (max-width: 810px) {
     .product-card {
